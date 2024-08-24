@@ -38,9 +38,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Google_GenerativeAI": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.5, )"
+            },
+            "Octokit": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
