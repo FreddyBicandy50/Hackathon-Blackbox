@@ -12,6 +12,8 @@ This tool is a CI/CD development application that leverages AI to analyze and en
 
 ## Workflow
 
+<img src="https://github.com/FreddyBicandy50/Web-Host/blob/main/flowchart.gif" alt="flowchart">
+
 ## License
 
 This project is licensed under the MIT License.
