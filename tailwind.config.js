@@ -5,12 +5,12 @@ export default {
     extend: {
       fontFamily: {
         satoshi: ["Satoshi", "sans-serif"],
-        inter:["Inter","sans-serif"]
+        inter: ["Inter", "sans-serif"],
       },
       backgroundImage: {
-        'arrow':"url(/src/assets/sep.svg)"
-      }
+        arrow: "url(/src/assets/sep.svg)",
+      },
     },
   },
-  plugins: [],
+  plugins: [require("daisyui")],
 };
