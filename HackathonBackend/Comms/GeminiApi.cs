@@ -1,5 +1,6 @@
 using GenerativeAI.Classes;
 using GenerativeAI.Models;
+using GenerativeAI.Types;
 
 namespace HackathonBackend.Comms;
 
@@ -25,9 +26,10 @@ public class GeminiApi
 
     public static async Task<string?> SendToAiAsync(string prompt, byte[] bytes)
     {
+        var model2 = new GenerativeModel(_geminiToken);
         var model = new Gemini15Flash(_geminiToken);
 
-        var response = await model.GenerateContentAsync(_instructions + prompt, new FileObject(bytes, "code.txt"));
+        var response = await model2.GenerateContentAsync(new List<Part>(){new Part(){Text = _instructions + prompt, InlineData = }});
         
         Console.WriteLine(response.Text());
         return response.Text();

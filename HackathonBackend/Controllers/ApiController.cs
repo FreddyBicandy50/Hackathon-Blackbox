@@ -6,5 +6,9 @@ namespace HackathonBackend.Controllers;
 [ApiController]
 public class ApiController : ControllerBase
 {
-	
+	[HttpGet]
+	public IActionResult GetAll()
+	{
+		return Ok("Hello There");
+	}
 }
