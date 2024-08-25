@@ -14,6 +14,14 @@ This tool is a CI/CD development application that leverages AI to analyze and en
 
 <img src="https://github.com/FreddyBicandy50/Web-Host/blob/main/flowchart.gif" alt="flowchart">
 
+# Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,Vite,DoNet,Github" />
+  </a>
+</p>
+
 ## License
 
 MIT License
