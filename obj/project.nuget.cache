@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rNpFAbLI9219c+GKNafTs5SD9hqVNhZ88XpkO7sepDG4rVu28KMHxvlLiMsveExSe/PGyEq5TxF4cC+mVY0zAw==",
+  "dgSpecHash": "LL61RdbTCb/d8WiXkjb+5uH99dO8ps8ZJFjOUvzMuzpWjDmlG2uNRY5Zlv2D488EMOvGOXcV+ygt8Td1JL6VXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Assaf Mrad\\Desktop\\Hackathon\\blackboxHackathon\\HackathonBackend.csproj",
+  "projectFilePath": "C:\\Users\\Assaf Mrad\\Desktop\\Backend\\blackboxHackathon\\HackathonBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Assaf Mrad\\.nuget\\packages\\google_generativeai\\1.0.2\\google_generativeai.1.0.2.nupkg.sha512",
     "C:\\Users\\Assaf Mrad\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.5\\microsoft.aspnetcore.openapi.8.0.5.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Assaf Mrad\\Desktop\\Hackathon\\blackboxHackathon\\HackathonBackend.csproj": {}
+    "C:\\Users\\Assaf Mrad\\Desktop\\Backend\\blackboxHackathon\\HackathonBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Assaf Mrad\\Desktop\\Hackathon\\blackboxHackathon\\HackathonBackend.csproj": {
+    "C:\\Users\\Assaf Mrad\\Desktop\\Backend\\blackboxHackathon\\HackathonBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Assaf Mrad\\Desktop\\Hackathon\\blackboxHackathon\\HackathonBackend.csproj",
+        "projectUniqueName": "C:\\Users\\Assaf Mrad\\Desktop\\Backend\\blackboxHackathon\\HackathonBackend.csproj",
         "projectName": "HackathonBackend",
-        "projectPath": "C:\\Users\\Assaf Mrad\\Desktop\\Hackathon\\blackboxHackathon\\HackathonBackend.csproj",
+        "projectPath": "C:\\Users\\Assaf Mrad\\Desktop\\Backend\\blackboxHackathon\\HackathonBackend.csproj",
         "packagesPath": "C:\\Users\\Assaf Mrad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Assaf Mrad\\Desktop\\Hackathon\\blackboxHackathon\\obj\\",
+        "outputPath": "C:\\Users\\Assaf Mrad\\Desktop\\Backend\\blackboxHackathon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Assaf Mrad\\AppData\\Roaming\\NuGet\\NuGet.Config"
