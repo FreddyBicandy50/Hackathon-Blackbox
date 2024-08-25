@@ -1,6 +1,6 @@
 # CI/CD Dev Tool
 
-This tool is a CI/CD development application that leverages AI to analyze and enhance your code. Built with a React front-end and an ASP.NET Core back-end, it interacts with both GitHub and Gemini AI APIs to provide comprehensive code analysis, suggestions, and fixes. This tool helps developers identify potential issues in their code and proposes solutions, improving the overall quality and robustness of their projects.
+This tool is a CI/CD development for (c projects) application that leverages AI to analyze and enhance your code. Built with a React front-end and an ASP.NET Core back-end, it interacts with both GitHub and Gemini AI APIs to provide comprehensive code analysis, suggestions, and fixes. This tool helps developers identify potential issues in their code and proposes solutions, improving the overall quality and robustness of their projects.
 
 ## Features
 
