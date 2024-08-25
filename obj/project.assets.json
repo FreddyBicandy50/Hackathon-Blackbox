@@ -3694,19 +3694,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Assaf Mrad\\.nuget\\packages\\": {}
+    "/home/ubuntu/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Assaf Mrad\\Desktop\\Backend\\blackboxHackathon\\HackathonBackend.csproj",
+      "projectUniqueName": "/home/ubuntu/blackboxHackathon/HackathonBackend.csproj",
       "projectName": "HackathonBackend",
-      "projectPath": "C:\\Users\\Assaf Mrad\\Desktop\\Backend\\blackboxHackathon\\HackathonBackend.csproj",
-      "packagesPath": "C:\\Users\\Assaf Mrad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Assaf Mrad\\Desktop\\Backend\\blackboxHackathon\\obj\\",
+      "projectPath": "/home/ubuntu/blackboxHackathon/HackathonBackend.csproj",
+      "packagesPath": "/home/ubuntu/.nuget/packages/",
+      "outputPath": "/home/ubuntu/blackboxHackathon/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Assaf Mrad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/ubuntu/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -3770,7 +3770,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

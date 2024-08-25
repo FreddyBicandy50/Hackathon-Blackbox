@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\buildMultiTargeting\HackathonBackend.props" />
+  <Import Project="../buildMultiTargeting/HackathonBackend.props" />
 </Project>

@@ -31,7 +31,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseCors("AllowSpecificOrigin");
-
+app.UserCors("AllowSpecificOrgin2");
 app.MapControllers();
 
 app.Run();

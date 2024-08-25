@@ -1,146 +1,183 @@
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\appsettings.json
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\HackathonBackend.exe
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\HackathonBackend.deps.json
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\HackathonBackend.runtimeconfig.json
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\HackathonBackend.dll
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\HackathonBackend.pdb
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\GenerativeAI.dll
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\Octokit.dll
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\HackathonBackend.csproj.AssemblyReference.cache
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\HackathonBackend.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\HackathonBackend.AssemblyInfoInputs.cache
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\HackathonBackend.AssemblyInfo.cs
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\HackathonBackend.csproj.CoreCompileInputs.cache
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\HackathonBackend.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\HackathonBackend.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\HackathonBackend.sourcelink.json
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\staticwebassets\msbuild.HackathonBackend.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\staticwebassets\msbuild.build.HackathonBackend.props
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HackathonBackend.props
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HackathonBackend.props
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\scopedcss\bundle\HackathonBackend.styles.css
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\Hackatho.ECF59565.Up2Date
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\HackathonBackend.dll
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\refint\HackathonBackend.dll
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\HackathonBackend.pdb
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\HackathonBackend.genruntimeconfig.cache
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\ref\HackathonBackend.dll
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\appsettings.json
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\HackathonBackend.exe
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\HackathonBackend.deps.json
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\HackathonBackend.runtimeconfig.json
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\HackathonBackend.dll
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\HackathonBackend.pdb
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\GenerativeAI.dll
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\Octokit.dll
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\HackathonBackend.csproj.AssemblyReference.cache
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\HackathonBackend.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\HackathonBackend.AssemblyInfoInputs.cache
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\HackathonBackend.AssemblyInfo.cs
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\HackathonBackend.csproj.CoreCompileInputs.cache
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\HackathonBackend.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\HackathonBackend.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\HackathonBackend.sourcelink.json
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\staticwebassets\msbuild.HackathonBackend.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\staticwebassets\msbuild.build.HackathonBackend.props
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HackathonBackend.props
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HackathonBackend.props
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\scopedcss\bundle\HackathonBackend.styles.css
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\Hackatho.ECF59565.Up2Date
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\HackathonBackend.dll
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\refint\HackathonBackend.dll
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\HackathonBackend.pdb
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\HackathonBackend.genruntimeconfig.cache
-C:\Users\Assaf Mrad\Desktop\Github Repo\blackboxHackathon\HackathonBackend\obj\Debug\net8.0\ref\HackathonBackend.dll
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\bin\Debug\net8.0\appsettings.json
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\bin\Debug\net8.0\HackathonBackend.exe
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\bin\Debug\net8.0\HackathonBackend.deps.json
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\bin\Debug\net8.0\HackathonBackend.runtimeconfig.json
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\bin\Debug\net8.0\HackathonBackend.dll
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\bin\Debug\net8.0\HackathonBackend.pdb
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\bin\Debug\net8.0\GenerativeAI.dll
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\bin\Debug\net8.0\Newtonsoft.Json.dll
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\bin\Debug\net8.0\Octokit.dll
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\obj\Debug\net8.0\HackathonBackend.csproj.AssemblyReference.cache
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\obj\Debug\net8.0\HackathonBackend.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\obj\Debug\net8.0\HackathonBackend.AssemblyInfoInputs.cache
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\obj\Debug\net8.0\HackathonBackend.AssemblyInfo.cs
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\obj\Debug\net8.0\HackathonBackend.csproj.CoreCompileInputs.cache
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\obj\Debug\net8.0\HackathonBackend.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\obj\Debug\net8.0\HackathonBackend.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\obj\Debug\net8.0\HackathonBackend.sourcelink.json
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\obj\Debug\net8.0\staticwebassets\msbuild.HackathonBackend.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\obj\Debug\net8.0\staticwebassets\msbuild.build.HackathonBackend.props
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HackathonBackend.props
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HackathonBackend.props
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\obj\Debug\net8.0\scopedcss\bundle\HackathonBackend.styles.css
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\obj\Debug\net8.0\Hackatho.ECF59565.Up2Date
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\obj\Debug\net8.0\HackathonBackend.dll
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\obj\Debug\net8.0\refint\HackathonBackend.dll
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\obj\Debug\net8.0\HackathonBackend.pdb
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\obj\Debug\net8.0\HackathonBackend.genruntimeconfig.cache
-C:\Users\Assaf Mrad\Desktop\Hackathon\blackboxHackathon\obj\Debug\net8.0\ref\HackathonBackend.dll
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\bin\Debug\net8.0\appsettings.json
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\bin\Debug\net8.0\HackathonBackend.exe
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\bin\Debug\net8.0\HackathonBackend.deps.json
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\bin\Debug\net8.0\HackathonBackend.runtimeconfig.json
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\bin\Debug\net8.0\HackathonBackend.dll
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\bin\Debug\net8.0\HackathonBackend.pdb
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\bin\Debug\net8.0\GenerativeAI.dll
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\bin\Debug\net8.0\Newtonsoft.Json.dll
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\bin\Debug\net8.0\Octokit.dll
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\obj\Debug\net8.0\HackathonBackend.csproj.AssemblyReference.cache
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\obj\Debug\net8.0\HackathonBackend.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\obj\Debug\net8.0\HackathonBackend.AssemblyInfoInputs.cache
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\obj\Debug\net8.0\HackathonBackend.AssemblyInfo.cs
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\obj\Debug\net8.0\HackathonBackend.csproj.CoreCompileInputs.cache
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\obj\Debug\net8.0\HackathonBackend.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\obj\Debug\net8.0\HackathonBackend.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\obj\Debug\net8.0\HackathonBackend.sourcelink.json
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\obj\Debug\net8.0\staticwebassets\msbuild.HackathonBackend.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\obj\Debug\net8.0\staticwebassets\msbuild.build.HackathonBackend.props
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HackathonBackend.props
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HackathonBackend.props
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\obj\Debug\net8.0\scopedcss\bundle\HackathonBackend.styles.css
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\obj\Debug\net8.0\Hackatho.ECF59565.Up2Date
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\obj\Debug\net8.0\HackathonBackend.dll
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\obj\Debug\net8.0\refint\HackathonBackend.dll
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\obj\Debug\net8.0\HackathonBackend.pdb
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\obj\Debug\net8.0\HackathonBackend.genruntimeconfig.cache
-C:\Users\Assaf Mrad\Desktop\Backend\blackboxHackathon\obj\Debug\net8.0\ref\HackathonBackend.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/appsettings.json
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/HackathonBackend.exe
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/HackathonBackend.deps.json
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/HackathonBackend.runtimeconfig.json
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/HackathonBackend.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/HackathonBackend.pdb
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/GenerativeAI.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/Octokit.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/HackathonBackend.csproj.AssemblyReference.cache
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/HackathonBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/HackathonBackend.AssemblyInfoInputs.cache
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/HackathonBackend.AssemblyInfo.cs
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/HackathonBackend.csproj.CoreCompileInputs.cache
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/HackathonBackend.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/HackathonBackend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/HackathonBackend.sourcelink.json
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/staticwebassets/msbuild.HackathonBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/staticwebassets/msbuild.build.HackathonBackend.props
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.HackathonBackend.props
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.HackathonBackend.props
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/scopedcss/bundle/HackathonBackend.styles.css
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/Hackatho.ECF59565.Up2Date
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/HackathonBackend.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/refint/HackathonBackend.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/HackathonBackend.pdb
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/HackathonBackend.genruntimeconfig.cache
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/ref/HackathonBackend.dll
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/appsettings.json
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/HackathonBackend.exe
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/HackathonBackend.deps.json
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/HackathonBackend.runtimeconfig.json
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/HackathonBackend.dll
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/HackathonBackend.pdb
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/GenerativeAI.dll
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/Octokit.dll
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/HackathonBackend.csproj.AssemblyReference.cache
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/HackathonBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/HackathonBackend.AssemblyInfoInputs.cache
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/HackathonBackend.AssemblyInfo.cs
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/HackathonBackend.csproj.CoreCompileInputs.cache
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/HackathonBackend.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/HackathonBackend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/HackathonBackend.sourcelink.json
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/staticwebassets/msbuild.HackathonBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/staticwebassets/msbuild.build.HackathonBackend.props
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.HackathonBackend.props
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.HackathonBackend.props
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/scopedcss/bundle/HackathonBackend.styles.css
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/Hackatho.ECF59565.Up2Date
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/HackathonBackend.dll
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/refint/HackathonBackend.dll
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/HackathonBackend.pdb
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/HackathonBackend.genruntimeconfig.cache
+C:/Users/Assaf Mrad/Desktop/Github Repo/blackboxHackathon/HackathonBackend/obj/Debug/net8.0/ref/HackathonBackend.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/bin/Debug/net8.0/appsettings.json
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/bin/Debug/net8.0/HackathonBackend.exe
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/bin/Debug/net8.0/HackathonBackend.deps.json
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/bin/Debug/net8.0/HackathonBackend.runtimeconfig.json
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/bin/Debug/net8.0/HackathonBackend.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/bin/Debug/net8.0/HackathonBackend.pdb
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/bin/Debug/net8.0/GenerativeAI.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/bin/Debug/net8.0/Octokit.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.csproj.AssemblyReference.cache
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.AssemblyInfoInputs.cache
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.AssemblyInfo.cs
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.csproj.CoreCompileInputs.cache
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.sourcelink.json
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/obj/Debug/net8.0/staticwebassets/msbuild.HackathonBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/obj/Debug/net8.0/staticwebassets/msbuild.build.HackathonBackend.props
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.HackathonBackend.props
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.HackathonBackend.props
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/obj/Debug/net8.0/scopedcss/bundle/HackathonBackend.styles.css
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/obj/Debug/net8.0/Hackatho.ECF59565.Up2Date
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/obj/Debug/net8.0/refint/HackathonBackend.dll
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.pdb
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.genruntimeconfig.cache
+C:/Users/Assaf Mrad/Desktop/Hackathon/blackboxHackathon/obj/Debug/net8.0/ref/HackathonBackend.dll
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/bin/Debug/net8.0/appsettings.json
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/bin/Debug/net8.0/HackathonBackend.exe
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/bin/Debug/net8.0/HackathonBackend.deps.json
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/bin/Debug/net8.0/HackathonBackend.runtimeconfig.json
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/bin/Debug/net8.0/HackathonBackend.dll
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/bin/Debug/net8.0/HackathonBackend.pdb
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/bin/Debug/net8.0/GenerativeAI.dll
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/bin/Debug/net8.0/Octokit.dll
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.csproj.AssemblyReference.cache
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.AssemblyInfoInputs.cache
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.AssemblyInfo.cs
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.csproj.CoreCompileInputs.cache
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.sourcelink.json
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/obj/Debug/net8.0/staticwebassets/msbuild.HackathonBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/obj/Debug/net8.0/staticwebassets/msbuild.build.HackathonBackend.props
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.HackathonBackend.props
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.HackathonBackend.props
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/obj/Debug/net8.0/scopedcss/bundle/HackathonBackend.styles.css
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/obj/Debug/net8.0/Hackatho.ECF59565.Up2Date
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.dll
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/obj/Debug/net8.0/refint/HackathonBackend.dll
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.pdb
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.genruntimeconfig.cache
+C:/Users/Assaf Mrad/Desktop/Backend/blackboxHackathon/obj/Debug/net8.0/ref/HackathonBackend.dll
+/home/ubuntu/blackboxHackathon/bin/Debug/net8.0/appsettings.Development.json
+/home/ubuntu/blackboxHackathon/bin/Debug/net8.0/appsettings.json
+/home/ubuntu/blackboxHackathon/bin/Debug/net8.0/HackathonBackend
+/home/ubuntu/blackboxHackathon/bin/Debug/net8.0/HackathonBackend.deps.json
+/home/ubuntu/blackboxHackathon/bin/Debug/net8.0/HackathonBackend.runtimeconfig.json
+/home/ubuntu/blackboxHackathon/bin/Debug/net8.0/HackathonBackend.dll
+/home/ubuntu/blackboxHackathon/bin/Debug/net8.0/HackathonBackend.pdb
+/home/ubuntu/blackboxHackathon/bin/Debug/net8.0/GenerativeAI.dll
+/home/ubuntu/blackboxHackathon/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/ubuntu/blackboxHackathon/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/ubuntu/blackboxHackathon/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/ubuntu/blackboxHackathon/bin/Debug/net8.0/Octokit.dll
+/home/ubuntu/blackboxHackathon/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/ubuntu/blackboxHackathon/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/ubuntu/blackboxHackathon/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/ubuntu/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.csproj.AssemblyReference.cache
+/home/ubuntu/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.AssemblyInfoInputs.cache
+/home/ubuntu/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.AssemblyInfo.cs
+/home/ubuntu/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.csproj.CoreCompileInputs.cache
+/home/ubuntu/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.MvcApplicationPartsAssemblyInfo.cs
+/home/ubuntu/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.MvcApplicationPartsAssemblyInfo.cache
+/home/ubuntu/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.sourcelink.json
+/home/ubuntu/blackboxHackathon/obj/Debug/net8.0/staticwebassets.build.json
+/home/ubuntu/blackboxHackathon/obj/Debug/net8.0/staticwebassets.development.json
+/home/ubuntu/blackboxHackathon/obj/Debug/net8.0/staticwebassets/msbuild.HackathonBackend.Microsoft.AspNetCore.StaticWebAssets.props
+/home/ubuntu/blackboxHackathon/obj/Debug/net8.0/staticwebassets/msbuild.build.HackathonBackend.props
+/home/ubuntu/blackboxHackathon/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.HackathonBackend.props
+/home/ubuntu/blackboxHackathon/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.HackathonBackend.props
+/home/ubuntu/blackboxHackathon/obj/Debug/net8.0/staticwebassets.pack.json
+/home/ubuntu/blackboxHackathon/obj/Debug/net8.0/scopedcss/bundle/HackathonBackend.styles.css
+/home/ubuntu/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.csproj.CopyComplete
+/home/ubuntu/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.dll
+/home/ubuntu/blackboxHackathon/obj/Debug/net8.0/refint/HackathonBackend.dll
+/home/ubuntu/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.pdb
+/home/ubuntu/blackboxHackathon/obj/Debug/net8.0/HackathonBackend.genruntimeconfig.cache
+/home/ubuntu/blackboxHackathon/obj/Debug/net8.0/ref/HackathonBackend.dll
