@@ -18,7 +18,8 @@ This tool is a CI/CD development application that leverages AI to analyze and en
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,donet,vite,github" />
+    <img src="https://skillicons.dev/icons?i=react,vite,github" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg" />
   </a>
 </p>
 
