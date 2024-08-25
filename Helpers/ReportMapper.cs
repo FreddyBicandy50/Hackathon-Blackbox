@@ -14,7 +14,7 @@ public class ReportMapper
         
         var result = new Report();
         
-        string pattern = @"<(?<tag>\w+)>.*?<\/\k<tag>>";
+        string pattern = @"<(?<tag>\w+)>((.|\n)*?)<\/\k<tag>>";
 
         var matches = Regex.Matches(response, pattern);
 
@@ -27,13 +27,8 @@ public class ReportMapper
         
         foreach (Match match in matches)
         {
-            string tag = match.Groups["tag"].Value;
+            string tag = match.Groups[3].Value;
             string text = Regex.Replace(match.Value, "<.*?>", string.Empty).Trim();
-
-            // if (tag.Contains("code"))
-            // {
-            //     result.Items.Add(new ReportItem(){IsCode = true, Text = text});
-            // }
             
             result.Items.Add(new ReportItem(){ IsCode = tag.Contains("code"), Text = text});
         }

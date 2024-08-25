@@ -60,4 +60,13 @@ public class ApiController : ControllerBase
 		
 		return Ok(testReport);
 	}
+
+	[HttpGet("geminiTest")]
+	public async Task<IActionResult> TestAi()
+	{
+		var aiResp = await GeminiApi.SendToAiAsync("This code is my try to recreate a library containing some basic operations and function of the c language", await System.IO.File.ReadAllBytesAsync("Created/Code.txt"));
+		
+		Console.WriteLine(aiResp);
+		return Ok(aiResp);
+	}
 }

@@ -1,6 +1,6 @@
 using HackathonBackend.Comms;
 // GithubApi.SearchGit("FreddyBicandy50", "ft_printf");
-await GithubApi.SearchGit("https://github.com/FreddyBicandy50/ft_printf");
+// await GithubApi.SearchGit("https://github.com/FreddyBicandy50/ft_printf");
 // await GeminiApi.SendToAiAsync(
 //     "This code is my try to recreate a library containing some basic operations and function of the c language",
 //     File.ReadAllBytes("Created/code.txt"));
