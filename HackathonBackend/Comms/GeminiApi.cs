@@ -19,13 +19,13 @@ public class GeminiApi
                                                    "necessary by rewriting the code that should be edited and add comments explaining in details before the parts that were changed. " +
                                                    "3-Provide a  summary for the code present in the code.txt file that was sent explaining what this code does. " +
                                                    "Output all the steps in the following manner: First you are required to return your response in a markup custom markup language using the following elements: " +
-                                                   "text(number): this element will contain every text that is not c code like the summary or the explanations you will provide when necessary, the (number) will automatically filled by you in order like <text1> <text2>. " +
-                                                   "code(number): this element will contain every c code that you will generate including the comments. Also the (number) will automatically be filled by you while incrementing it with every usage like <code1> <code2>. " +
+                                                   "text: this element will contain every text that is not c code like the summary or the explanations you will provide when necessary. " +
+                                                   "code: this element will contain every c code that you will generate including the comments. " +
                                                    "Your answers should be the smallest possible especially in the code you should not rewrite the code unless there is an error or a problem that is present and in this case you should only rewrite the parts that needs to be fixed" +
                                                    "Now this is a simulation about a real live interaction with the user: " +
                                                    "user: This code is written to do .... "+
-                                                   "ai: <text1>summary</text1>"+
-                                                   "ai: <code1> c code generate including the comment</code1>" +
+                                                   "ai: <text>summary</text>"+
+                                                   "ai: <code> c code generate including the comment</code>" +
                                                    "ai: any other information either inside a text element or a code element depending on its nature";
 
     /**

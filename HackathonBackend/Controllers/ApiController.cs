@@ -1,4 +1,5 @@
 using HackathonBackend.Comms;
+using HackathonBackend.Helpers;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HackathonBackend.Controllers;
@@ -29,6 +30,15 @@ public class ApiController : ControllerBase
 			{
 				return BadRequest("Error Analyzing Sent Data");
 			}
+
+			var report = ReportMapper.ToReport(aiResponse);
+
+			if (report is null)
+			{
+				return NotFound("An error occured while generating response");
+			}
+
+			return Ok(report);
 		}
 
 		// If the GitHub repo url was not valid then an error message is returned which is then sent from the api as a badRequest

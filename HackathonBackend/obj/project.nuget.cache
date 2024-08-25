@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Jv72SjpfPeiQTapoQL05T+Qs9Z0YWkHNYlUHz/3zGvBhyJNR5KCKxpkbHhC1TfsDJWlSOwqlYn23FAg8peWrow==",
+  "dgSpecHash": "HulciQe7cgva5GqnjccgOHtolMcBHINAYOVWj3KeZ2Fvv7LMihGchg6MbRng9wvPhFNe0SL2e3uPOPhxeU2JQw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Assaf Mrad\\Desktop\\Github Repo\\blackboxHackathon\\HackathonBackend\\HackathonBackend.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\Assaf Mrad\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\Assaf Mrad\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Assaf Mrad\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Assaf Mrad\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Assaf Mrad\\.nuget\\packages\\octokit\\13.0.1\\octokit.13.0.1.nupkg.sha512",
     "C:\\Users\\Assaf Mrad\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\Assaf Mrad\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
