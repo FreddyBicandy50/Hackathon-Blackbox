@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/ubuntu/blackboxHackathon/HackathonBackend.csproj": {}
+    "C:\\Users\\Assaf Mrad\\Desktop\\Backend\\blackboxHackathon\\HackathonBackend.csproj": {}
   },
   "projects": {
-    "/home/ubuntu/blackboxHackathon/HackathonBackend.csproj": {
+    "C:\\Users\\Assaf Mrad\\Desktop\\Backend\\blackboxHackathon\\HackathonBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ubuntu/blackboxHackathon/HackathonBackend.csproj",
+        "projectUniqueName": "C:\\Users\\Assaf Mrad\\Desktop\\Backend\\blackboxHackathon\\HackathonBackend.csproj",
         "projectName": "HackathonBackend",
-        "projectPath": "/home/ubuntu/blackboxHackathon/HackathonBackend.csproj",
-        "packagesPath": "/home/ubuntu/.nuget/packages/",
-        "outputPath": "/home/ubuntu/blackboxHackathon/obj/",
+        "projectPath": "C:\\Users\\Assaf Mrad\\Desktop\\Backend\\blackboxHackathon\\HackathonBackend.csproj",
+        "packagesPath": "C:\\Users\\Assaf Mrad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Assaf Mrad\\Desktop\\Backend\\blackboxHackathon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Assaf Mrad\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -41,6 +41,10 @@
             "Google_GenerativeAI": {
               "target": "Package",
               "version": "[1.0.2, )"
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
@@ -78,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

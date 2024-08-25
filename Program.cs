@@ -1,9 +1,4 @@
-using HackathonBackend.Comms;
-// GithubApi.SearchGit("FreddyBicandy50", "ft_printf");
-// await GithubApi.SearchGit("https://github.com/FreddyBicandy50/ft_printf");
-// await GeminiApi.SendToAiAsync(
-//     "This code is my try to recreate a library containing some basic operations and function of the c language",
-//     File.ReadAllBytes("Created/code.txt"));
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -15,7 +10,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowSpecificOrigin", 
         builder => builder.WithOrigins("http://100.123.178.21:5000").AllowAnyHeader().AllowAnyMethod());
-    options.AddPolicy("AllowSpecificOrgin2", 
+    options.AddPolicy("AllowSpecificOrigin2", 
         builder => builder.WithOrigins("http://localhost:5173").AllowAnyHeader().AllowAnyMethod());
 });
 
@@ -31,7 +26,8 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseCors("AllowSpecificOrigin");
-app.UserCors("AllowSpecificOrgin2");
+app.UseCors("AllowSpecificOrigin2");
+
 app.MapControllers();
 
 app.Run();
