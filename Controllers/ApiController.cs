@@ -1,5 +1,6 @@
 using HackathonBackend.Comms;
 using HackathonBackend.Helpers;
+using HackathonBackend.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HackathonBackend.Controllers;
@@ -43,5 +44,20 @@ public class ApiController : ControllerBase
 
 		// If the GitHub repo url was not valid then an error message is returned which is then sent from the api as a badRequest
 		return BadRequest(gitResult);
+	}
+
+	[HttpGet("test")]
+	public IActionResult Test()
+	{
+		var testReport = new Report()
+		{
+			Items = new List<ReportItem>()
+			{
+				new ReportItem() { IsCode = false, Text = "Test text to be displayed" },
+				new ReportItem() { IsCode = true, Text = "public static void main(String[] args)" }
+			}
+		};
+		
+		return Ok(testReport);
 	}
 }

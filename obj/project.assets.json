@@ -3694,33 +3694,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Assaf Mrad\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Assaf Mrad\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Assaf Mrad\\Desktop\\Github Repo\\blackboxHackathon\\HackathonBackend\\HackathonBackend.csproj",
+      "projectUniqueName": "C:\\Users\\Assaf Mrad\\Desktop\\Hackathon\\blackboxHackathon\\HackathonBackend.csproj",
       "projectName": "HackathonBackend",
-      "projectPath": "C:\\Users\\Assaf Mrad\\Desktop\\Github Repo\\blackboxHackathon\\HackathonBackend\\HackathonBackend.csproj",
+      "projectPath": "C:\\Users\\Assaf Mrad\\Desktop\\Hackathon\\blackboxHackathon\\HackathonBackend.csproj",
       "packagesPath": "C:\\Users\\Assaf Mrad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Assaf Mrad\\Desktop\\Github Repo\\blackboxHackathon\\HackathonBackend\\obj\\",
+      "outputPath": "C:\\Users\\Assaf Mrad\\Desktop\\Hackathon\\blackboxHackathon\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Assaf Mrad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Assaf Mrad\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
